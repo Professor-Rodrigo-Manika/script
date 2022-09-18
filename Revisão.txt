@@ -1,0 +1,4 @@
+Alla, há um problema no seu CSS bem simples.
+Você abre a função do body e não fecha ela. Por isso não funciona.
+Att.
+Professor Rodrigo Manika
